@@ -1,5 +1,5 @@
 //663d2a3704654e719f699eaebd06a570
-let apiKey = '663d2a3704654e719f699eaebd06a570';
+let apiKey = '7ef738281d8714ad392589952a7f3b34';
 let newsContainer = document.getElementById('card-container');
 
 const xhr = new XMLHttpRequest();
